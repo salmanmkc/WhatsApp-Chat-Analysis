@@ -1,0 +1,1 @@
+local_path = 'newchatmedia.txt' # replace with exported chat file
